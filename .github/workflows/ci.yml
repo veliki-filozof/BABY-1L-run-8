@@ -1,0 +1,24 @@
+name: CI
+
+on: [push, pull_request]
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v2
+
+      - name: Set up Miniconda
+        uses: conda-incubator/setup-miniconda@v2
+        with:
+          auto-update-conda: true
+          environment-file: environment.yml
+          activate-environment: libra-run-env
+
+      # example how to run a notebook
+      # - name: Run tritium model
+      #   shell: bash -l {0}
+      #   working-directory: analysis/tritium
+      #   run: jupyter-nbconvert --to notebook tritium_model.ipynb --execute

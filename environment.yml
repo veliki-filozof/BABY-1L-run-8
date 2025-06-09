@@ -1,0 +1,22 @@
+name: libra-run-env
+channels:
+  - conda-forge
+dependencies:
+  - python
+  - openmc # add version tag
+  - openmc-plotter
+  - numpy # add version tag
+  - scipy # add version tag
+  - matplotlib # add version tag
+  - sympy
+  - pandas
+  - pint-pandas
+  - nbconvert
+  - ipykernel
+  - pint
+  - pip
+  - pip:
+      - git+https://github.com/libra-project/libra-toolbox # add version tag
+      - openmc_data_downloader
+      - matplotlib-label-lines
+      - h-transport-materials
