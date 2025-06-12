@@ -15,10 +15,16 @@ jobs:
         with:
           auto-update-conda: true
           environment-file: environment.yml
-          activate-environment: libra-run-env
+          activate-environment: baby-1l-run-8
 
-      # example how to run a notebook
-      # - name: Run tritium model
-      #   shell: bash -l {0}
-      #   working-directory: analysis/tritium
-      #   run: jupyter-nbconvert --to notebook tritium_model.ipynb --execute
+      - name: Run neutronics
+        shell: bash -l {0}
+        working-directory: analysis/neutron
+        run: |
+          python openmc_model.py
+          jupyter-nbconvert --to notebook postprocessing.ipynb --execute
+
+      - name: Run tritium model
+        shell: bash -l {0}
+        working-directory: analysis/tritium
+        run: jupyter-nbconvert --to notebook tritium_model.ipynb --execute
