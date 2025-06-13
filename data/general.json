@@ -34,8 +34,8 @@
             "unit": "SCCM"
         },
         "switched_to": {
-            "type": null,
-            "gas_switch_time": null
+            "type": "3.5% H2 in He",
+            "gas_switch_time": "6/12/2025 10:09"
         }
     },
     "secondary_gas": {
@@ -58,19 +58,19 @@
             "unit": "SCCM"
         },
         "switched_to": {
-            "type": null,
-            "gas_switch_time": null
+            "type": "3.5% H2 in He",
+            "gas_switch_time": "6/12/2025 10:09"
         },
         "bubbler_start_mass": {
             "value": 1105,
             "unit": "g"
         },
         "bubbler_end_mass": {
-            "value": null,
+            "value": 1101,
             "unit": "g"
         },
         "bubbling_start": "06/09/2025 9:20",
-        "bubbling_end": null
+        "bubbling_end": "06/12/2025 9:40"
     },
     "generators": [
         {
@@ -257,20 +257,20 @@
                 "planned_sample_time": "6/9/2025 21:48",
                 "actual_sample_time": "6/9/2025 21:10",
                 "lsc_vials_filenames": {
-                    "1": "1L_IV_8-2_8-3_OV_8-1_SHORT.csv",
-                    "2": "1L_IV_8-2_8-3_OV_8-1_SHORT.csv",
-                    "3": "1L_IV_8-2_8-3_OV_8-1_SHORT.csv",
-                    "4": "1L_IV_8-2_8-3_OV_8-1_SHORT.csv"
+                    "1": "1L_IV_8-2_8-3_OV_8-1.csv",
+                    "2": "1L_IV_8-2_8-3_OV_8-1.csv",
+                    "3": "1L_IV_8-2_8-3_OV_8-1.csv",
+                    "4": "1L_IV_8-2_8-3_OV_8-1.csv"
                 }
             },
             "3": {
                 "planned_sample_time": "6/10/2025 09:48",
                 "actual_sample_time": "6/10/2025 09:58",
                 "lsc_vials_filenames": {
-                    "1": "1L_IV_8-2_8-3_OV_8-1_SHORT.csv",
-                    "2": "1L_IV_8-2_8-3_OV_8-1_SHORT.csv",
-                    "3": "1L_IV_8-2_8-3_OV_8-1_SHORT.csv",
-                    "4": "1L_IV_8-2_8-3_OV_8-1_SHORT.csv"
+                    "1": "1L_IV_8-2_8-3_OV_8-1.csv",
+                    "2": "1L_IV_8-2_8-3_OV_8-1.csv",
+                    "3": "1L_IV_8-2_8-3_OV_8-1.csv",
+                    "4": "1L_IV_8-2_8-3_OV_8-1.csv"
                 }
             },
             "4": {
@@ -282,6 +282,36 @@
                     "3": "1L_IV_8-4_OV_8-2_8-3_SHORT.csv",
                     "4": "1L_IV_8-4_OV_8-2_8-3_SHORT.csv"
                 }
+            },
+            "5": {
+                "planned_sample_time": "6/11/2025 21:48",
+                "actual_sample_time": "6/11/2025 22:22",
+                "lsc_vials_filenames": {
+                    "1": "1L_IV_8-5_8-6_OV_8-4_8-5_SHORT.csv",
+                    "2": "1L_IV_8-5_8-6_OV_8-4_8-5_SHORT.csv",
+                    "3": "1L_IV_8-5_8-6_OV_8-4_8-5_SHORT.csv",
+                    "4": "1L_IV_8-5_8-6_OV_8-4_8-5_SHORT.csv"
+                }
+            },
+            "6": {
+                "planned_sample_time": "6/12/2025 09:48",
+                "actual_sample_time": "6/12/2025 10:01",
+                "lsc_vials_filenames": {
+                    "1": "1L_IV_8-5_8-6_OV_8-4_8-5_SHORT.csv",
+                    "2": "1L_IV_8-5_8-6_OV_8-4_8-5_SHORT.csv",
+                    "3": "1L_IV_8-5_8-6_OV_8-4_8-5_SHORT.csv",
+                    "4": "1L_IV_8-5_8-6_OV_8-4_8-5_SHORT.csv"
+                }
+            },
+            "7": {
+                "planned_sample_time": "6/12/2025 15:48",
+                "actual_sample_time": "6/12/2025 15:46",
+                "lsc_vials_filenames": {
+                    "1": "1L_IV_8-7_OV_8-6_SHORT.csv",
+                    "2": "1L_IV_8-7_OV_8-6_SHORT.csv",
+                    "3": "1L_IV_8-7_OV_8-6_SHORT.csv",
+                    "4": "1L_IV_8-7_OV_8-6_SHORT.csv"
+                }
             }
         },
         "OV": {
@@ -289,10 +319,10 @@
                 "planned_sample_time": "6/10/2025 09:48",
                 "actual_sample_time": "6/10/2025 09:58",
                 "lsc_vials_filenames": {
-                    "1": "1L_IV_8-2_8-3_OV_8-1_SHORT.csv",
-                    "2": "1L_IV_8-2_8-3_OV_8-1_SHORT.csv",
-                    "3": "1L_IV_8-2_8-3_OV_8-1_SHORT.csv",
-                    "4": "1L_IV_8-2_8-3_OV_8-1_SHORT.csv"
+                    "1": "1L_IV_8-2_8-3_OV_8-1.csv",
+                    "2": "1L_IV_8-2_8-3_OV_8-1.csv",
+                    "3": "1L_IV_8-2_8-3_OV_8-1.csv",
+                    "4": "1L_IV_8-2_8-3_OV_8-1.csv"
                 }
             },
             "2": {
@@ -313,6 +343,36 @@
                     "2": "1L_IV_8-4_OV_8-2_8-3_SHORT.csv",
                     "3": "1L_IV_8-4_OV_8-2_8-3_SHORT.csv",
                     "4": "1L_IV_8-4_OV_8-2_8-3_SHORT.csv"
+                }
+            },
+            "4": {
+                "planned_sample_time": "6/11/2025 21:48",
+                "actual_sample_time": "6/11/2025 22:22",
+                "lsc_vials_filenames": {
+                    "1": "1L_IV_8-5_8-6_OV_8-4_8-5_SHORT.csv",
+                    "2": "1L_IV_8-5_8-6_OV_8-4_8-5_SHORT.csv",
+                    "3": "1L_IV_8-5_8-6_OV_8-4_8-5_SHORT.csv",
+                    "4": "1L_IV_8-5_8-6_OV_8-4_8-5_SHORT.csv"
+                }
+            },
+            "5": {
+                "planned_sample_time": "6/12/2025 09:48",
+                "actual_sample_time": "6/12/2025 10:01",
+                "lsc_vials_filenames": {
+                    "1": "1L_IV_8-5_8-6_OV_8-4_8-5_SHORT.csv",
+                    "2": "1L_IV_8-5_8-6_OV_8-4_8-5_SHORT.csv",
+                    "3": "1L_IV_8-5_8-6_OV_8-4_8-5_SHORT.csv",
+                    "4": "1L_IV_8-5_8-6_OV_8-4_8-5_SHORT.csv"
+                }
+            },
+            "6": {
+                "planned_sample_time": "6/12/2025 15:48",
+                "actual_sample_time": "6/12/2025 15:46",
+                "lsc_vials_filenames": {
+                    "1": "1L_IV_8-7_OV_8-6_SHORT.csv",
+                    "2": "1L_IV_8-7_OV_8-6_SHORT.csv",
+                    "3": "1L_IV_8-7_OV_8-6_SHORT.csv",
+                    "4": "1L_IV_8-7_OV_8-6_SHORT.csv"
                 }
             }
         }
