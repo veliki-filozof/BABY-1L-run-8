@@ -318,29 +318,29 @@
                 "actual_sample_time": "6/12/2025 22:22",
                 "lsc_vials_filenames": {
                     "1": "1L_IV_8-5-3_8-5-4_8-6_8-7_8-8-1.csv",
-                    "2": "1L_IV_8-8_8-9_OV_8-7_8-8_SHORT.csv",
-                    "3": "1L_IV_8-8_8-9_OV_8-7_8-8_SHORT.csv",
-                    "4": "1L_IV_8-8_8-9_OV_8-7_8-8_SHORT.csv"
+                    "2": "1L_IV_8-8-2_8-8-3_8-8-4_8-9_8-10_OV_8-3.csv",
+                    "3": "1L_IV_8-8-2_8-8-3_8-8-4_8-9_8-10_OV_8-3.csv",
+                    "4": "1L_IV_8-8-2_8-8-3_8-8-4_8-9_8-10_OV_8-3.csv"
                 }
             },
             "9": {
                 "planned_sample_time": "6/13/2025 09:48",
                 "actual_sample_time": "6/13/2025 11:19",
                 "lsc_vials_filenames": {
-                    "1": "1L_IV_8-8_8-9_OV_8-7_8-8_SHORT.csv",
-                    "2": "1L_IV_8-8_8-9_OV_8-7_8-8_SHORT.csv",
-                    "3": "1L_IV_8-8_8-9_OV_8-7_8-8_SHORT.csv",
-                    "4": "1L_IV_8-8_8-9_OV_8-7_8-8_SHORT.csv"
+                    "1": "1L_IV_8-8-2_8-8-3_8-8-4_8-9_8-10_OV_8-3.csv",
+                    "2": "1L_IV_8-8-2_8-8-3_8-8-4_8-9_8-10_OV_8-3.csv",
+                    "3": "1L_IV_8-8-2_8-8-3_8-8-4_8-9_8-10_OV_8-3.csv",
+                    "4": "1L_IV_8-8-2_8-8-3_8-8-4_8-9_8-10_OV_8-3.csv"
                 }
             },
             "10": {
                 "planned_sample_time": "6/13/2025 21:48",
                 "actual_sample_time": "6/13/2025 23:01",
                 "lsc_vials_filenames": {
-                    "1": "1L_IV_8-10_OV_8-9_SHORT.csv",
-                    "2": "1L_IV_8-10_OV_8-9_SHORT.csv",
-                    "3": "1L_IV_8-10_OV_8-9_SHORT.csv",
-                    "4": "1L_IV_8-10_OV_8-9_SHORT.csv"
+                    "1": "1L_IV_8-8-2_8-8-3_8-8-4_8-9_8-10_OV_8-3.csv",
+                    "2": "1L_IV_8-8-2_8-8-3_8-8-4_8-9_8-10_OV_8-3.csv",
+                    "3": "1L_IV_8-8-2_8-8-3_8-8-4_8-9_8-10_OV_8-3.csv",
+                    "4": "1L_IV_8-8-2_8-8-3_8-8-4_8-9_8-10_OV_8-3.csv"
                 }
             },
             "11": {
@@ -351,6 +351,16 @@
                     "2": "1L_IV_8-11_OV_8-10_SHORT.csv",
                     "3": "1L_IV_8-11_OV_8-10_SHORT.csv",
                     "4": "1L_IV_8-11_OV_8-10_SHORT.csv"
+                }
+            },
+            "12": {
+                "planned_sample_time": "6/16/2025 09:48",
+                "actual_sample_time": "6/16/2025 08:51",
+                "lsc_vials_filenames": {
+                    "1": "1L_IV_8-12_OV_8-11_SHORT.csv",
+                    "2": "1L_IV_8-12_OV_8-11_SHORT.csv",
+                    "3": "1L_IV_8-12_OV_8-11_SHORT.csv",
+                    "4": "1L_IV_8-12_OV_8-11_SHORT.csv"
                 }
             }
         },
@@ -379,10 +389,10 @@
                 "planned_sample_time": "6/11/2025 09:48",
                 "actual_sample_time": "6/11/2025 09:59",
                 "lsc_vials_filenames": {
-                    "1": "1L_IV_8-4_OV_8-2_8-3_SHORT.csv",
-                    "2": "1L_IV_8-4_OV_8-2_8-3_SHORT.csv",
-                    "3": "1L_IV_8-4_OV_8-2_8-3_SHORT.csv",
-                    "4": "1L_IV_8-4_OV_8-2_8-3_SHORT.csv"
+                    "1": "1L_IV_8-8-2_8-8-3_8-8-4_8-9_8-10_OV_8-3.csv",
+                    "2": "1L_IV_8-8-2_8-8-3_8-8-4_8-9_8-10_OV_8-3.csv",
+                    "3": "1L_IV_8-8-2_8-8-3_8-8-4_8-9_8-10_OV_8-3.csv",
+                    "4": "1L_IV_8-8-2_8-8-3_8-8-4_8-9_8-10_OV_8-3.csv"
                 }
             },
             "4": {
@@ -453,6 +463,16 @@
                     "2": "1L_IV_8-11_OV_8-10_SHORT.csv",
                     "3": "1L_IV_8-11_OV_8-10_SHORT.csv",
                     "4": "1L_IV_8-11_OV_8-10_SHORT.csv"
+                }
+            },
+            "11": {
+                "planned_sample_time": "6/16/2025 09:48",
+                "actual_sample_time": "6/16/2025 08:51",
+                "lsc_vials_filenames": {
+                    "1": "1L_IV_8-12_OV_8-11_SHORT.csv",
+                    "2": "1L_IV_8-12_OV_8-11_SHORT.csv",
+                    "3": "1L_IV_8-12_OV_8-11_SHORT.csv",
+                    "4": "1L_IV_8-12_OV_8-11_SHORT.csv"
                 }
             }
         }
